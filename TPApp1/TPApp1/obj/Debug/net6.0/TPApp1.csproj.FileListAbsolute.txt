@@ -1,0 +1,120 @@
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Utilizador\source\repos\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Cesae\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\Ana Rita\Engenharia de Software\Trabalho Prático\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Utilizador\Downloads\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\Documentos\Trabalhos\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\olima\OneDrive\Ambiente de Trabalho\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\TPApp1\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\bin\Debug\net6.0\TPApp1.exe
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\bin\Debug\net6.0\TPApp1.deps.json
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\bin\Debug\net6.0\TPApp1.runtimeconfig.json
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\bin\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\bin\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.csproj.AssemblyReference.cache
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfoInputs.cache
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.AssemblyInfo.cs
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.csproj.CoreCompileInputs.cache
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\refint\TPApp1.dll
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.pdb
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\TPApp1.genruntimeconfig.cache
+C:\Users\Cesae\Desktop\TPApp1lixo\TPApp1\obj\Debug\net6.0\ref\TPApp1.dll

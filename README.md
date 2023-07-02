@@ -1,5 +1,8 @@
 # Trabalho Prático: Aplicação Saúde Menos Distante
 
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/2b304bcb-b674-4017-b2c4-1ec607c747aa)
+
+
 ### Trabalho realizador por:
 - Ana Rita Amaral
 - Marina Oliveira
@@ -24,3 +27,37 @@ Desenvolva uma aplicação capaz de gerir a atividade das diferentes equipas de 
 - Fazer registo de utente com os antecedentes de saúde e medicação habitual. 
 - Gerar um relatório de consultas efetuadas, com filtro diário, indicando de forma clara quais as pessoas que apresentaram HTA grau 1, HTA grau 2, HTA grau 3; 
 - Outras que considere necessárias ou relevantes para a valorização da aplicação. Atenda aos princípios defendidos pelo Regulamento Geral de Proteção de Dados (RGPD).
+
+---
+
+### Diagrama Casos de Uso
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/21abcb0a-e4f4-4aa2-9a24-f2436b46cee3)
+
+---
+
+### Diagrama de Classes
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/69ea1202-ce28-4c36-82f3-8621cf4d5a3d)
+
+---
+
+### Diagramas de Sequência
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/7e60a744-d540-43b8-8f7e-b73d8f5b4c17)
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/86012c54-a542-479d-a54d-f20afa0ca1c9)
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/680098f5-7645-4e06-b5a4-d9f10624142d)
+
+---
+
+### Diagramas de Atividade
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/ebf57dfa-5334-4ec7-8287-eb744391c221)
+
+![image](https://github.com/RitAmaral/TrabalhoAplicacao/assets/132366922/ec54b001-4d40-4165-b449-9087cdbefb7b)
+
+
+
+
